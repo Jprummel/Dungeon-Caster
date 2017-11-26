@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: 819156467a1974f33806b2e5f4a24319
+timeCreated: 1508956743
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: salome_hit_spritesheet_0
+    21300002: salome_hit_spritesheet_1
+    21300004: salome_hit_spritesheet_2
+    21300006: salome_hit_spritesheet_3
+    21300008: salome_hit_spritesheet_4
+    21300010: salome_hit_spritesheet_5
+    21300012: salome_hit_spritesheet_6
+    21300014: salome_hit_spritesheet_7
+    21300016: salome_hit_spritesheet_8
+    21300018: salome_hit_spritesheet_9
+    21300020: salome_hit_spritesheet_10
+    21300022: salome_hit_spritesheet_11
+    21300024: salome_hit_spritesheet_12
+    21300026: salome_hit_spritesheet_13
+    21300028: salome_hit_spritesheet_14
+    21300030: salome_hit_spritesheet_15
+    21300032: salome_hit_spritesheet_16
+    21300034: salome_hit_spritesheet_17
+    21300036: salome_hit_spritesheet_18
+    21300038: salome_hit_spritesheet_19
+    21300040: salome_hit_spritesheet_20
+    21300042: salome_hit_spritesheet_21
+    21300044: salome_hit_spritesheet_22
+    21300046: salome_hit_spritesheet_23
+    21300048: salome_hit_spritesheet_24
+    21300050: salome_hit_spritesheet_25
+    21300052: salome_hit_spritesheet_26
+    21300054: Gecko_Hit_Spritesheet_0
+    21300056: Gecko_Hit_Spritesheet_1
+    21300058: Gecko_Hit_Spritesheet_2
+    21300060: Gecko_Hit_Spritesheet_3
+    21300062: Gecko_Hit_Spritesheet_4
+    21300064: Gecko_Hit_Spritesheet_5
+    21300066: Gecko_Hit_Spritesheet_6
+    21300068: Gecko_Hit_Spritesheet_7
+    21300070: Gecko_Hit_Spritesheet_8
+    21300072: Gecko_Hit_Spritesheet_9
+    21300074: Gecko_Hit_Spritesheet_10
+    21300076: Gecko_Hit_Spritesheet_11
+    21300078: Gecko_Hit_Spritesheet_12
+    21300080: Gecko_Hit_Spritesheet_13
+    21300082: Gecko_Hit_Spritesheet_14
+    21300084: Gecko_Hit_Spritesheet_15
+    21300086: Gecko_Hit_Spritesheet_16
+    21300088: Gecko_Hit_Spritesheet_17
+    21300090: Gecko_Hit_Spritesheet_18
+    21300092: Gecko_Hit_Spritesheet_19
+    21300094: Gecko_Hit_Spritesheet_20
+    21300096: Gecko_Hit_Spritesheet_21
+    21300098: Gecko_Hit_Spritesheet_22
+    21300100: Gecko_Hit_Spritesheet_23
+    21300102: Gecko_Hit_Spritesheet_24
+    21300104: Gecko_Hit_Spritesheet_25
+    21300106: Gecko_Hit_Spritesheet_26
+    21300108: Green_Gecko_Hit_Spritesheet_0
+    21300110: Green_Gecko_Hit_Spritesheet_1
+    21300112: Green_Gecko_Hit_Spritesheet_2
+    21300114: Green_Gecko_Hit_Spritesheet_3
+    21300116: Green_Gecko_Hit_Spritesheet_4
+    21300118: Green_Gecko_Hit_Spritesheet_5
+    21300120: Green_Gecko_Hit_Spritesheet_6
+    21300122: Green_Gecko_Hit_Spritesheet_7
+    21300124: Green_Gecko_Hit_Spritesheet_8
+    21300126: Green_Gecko_Hit_Spritesheet_9
+    21300128: Green_Gecko_Hit_Spritesheet_10
+    21300130: Green_Gecko_Hit_Spritesheet_11
+    21300132: Green_Gecko_Hit_Spritesheet_12
+    21300134: Green_Gecko_Hit_Spritesheet_13
+    21300136: Green_Gecko_Hit_Spritesheet_14
+    21300138: Green_Gecko_Hit_Spritesheet_15
+    21300140: Green_Gecko_Hit_Spritesheet_16
+    21300142: Green_Gecko_Hit_Spritesheet_17
+    21300144: Green_Gecko_Hit_Spritesheet_18
+    21300146: Green_Gecko_Hit_Spritesheet_19
+    21300148: Green_Gecko_Hit_Spritesheet_20
+    21300150: Green_Gecko_Hit_Spritesheet_21
+    21300152: Green_Gecko_Hit_Spritesheet_22
+    21300154: Green_Gecko_Hit_Spritesheet_23
+    21300156: Green_Gecko_Hit_Spritesheet_24
+    21300158: Green_Gecko_Hit_Spritesheet_25
+    21300160: Green_Gecko_Hit_Spritesheet_26
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1225
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1225
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1225
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1050
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1050
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 875
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 875
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 875
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 700
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 700
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 525
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 525
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 350
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 350
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 175
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Hit_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

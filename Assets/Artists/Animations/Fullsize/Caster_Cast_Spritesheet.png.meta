@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: a71d85c55ed859b47b4f707809a74baa
+timeCreated: 1508923942
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Caster_Cast_Spritesheet_0
+    21300002: Caster_Cast_Spritesheet_1
+    21300004: Caster_Cast_Spritesheet_2
+    21300006: Caster_Cast_Spritesheet_3
+    21300008: Caster_Cast_Spritesheet_4
+    21300010: Caster_Cast_Spritesheet_5
+    21300012: Caster_Cast_Spritesheet_6
+    21300014: Caster_Cast_Spritesheet_7
+    21300016: Caster_Cast_Spritesheet_8
+    21300018: Caster_Cast_Spritesheet_9
+    21300020: Caster_Cast_Spritesheet_10
+    21300022: Caster_Cast_Spritesheet_11
+    21300024: Caster_Cast_Spritesheet_12
+    21300026: Caster_Cast_Spritesheet_13
+    21300028: Caster_Cast_Spritesheet_14
+    21300030: Caster_Cast_Spritesheet_15
+    21300032: Caster_Cast_Spritesheet_16
+    21300034: Caster_Cast_Spritesheet_17
+    21300036: Caster_Cast_Spritesheet_18
+    21300038: Caster_Cast_Spritesheet_19
+    21300040: Caster_Cast_Spritesheet_20
+    21300042: Caster_Cast_Spritesheet_21
+    21300044: Caster_Cast_Spritesheet_22
+    21300046: Caster_Cast_Spritesheet_23
+    21300048: Caster_Cast_Spritesheet_24
+    21300050: Caster_Cast_Spritesheet_25
+    21300052: Caster_Cast_Spritesheet_26
+    21300054: Caster_Cast_Spritesheet_27
+    21300056: Caster_Cast_Spritesheet_28
+    21300058: Caster_Cast_Spritesheet_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3595
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 3595
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 3595
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 3595
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3094
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 3094
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 3094
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 3094
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2593
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2593
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 2593
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2593
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2092
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 2092
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 2092
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 2092
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1591
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1591
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1591
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1591
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1090
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1090
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1090
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1090
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 589
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 589
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 589
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 589
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Caster_Cast_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 88
+        width: 461
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

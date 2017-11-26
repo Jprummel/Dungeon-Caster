@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: 407b205b380ca4759bf4f0d4fe4fe940
+timeCreated: 1508956588
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blue_salome_attack__0
+    21300002: blue_salome_attack__1
+    21300004: blue_salome_attack__2
+    21300006: blue_salome_attack__3
+    21300008: blue_salome_attack__4
+    21300010: blue_salome_attack__5
+    21300012: blue_salome_attack__6
+    21300014: blue_salome_attack__7
+    21300016: blue_salome_attack__8
+    21300018: blue_salome_attack__9
+    21300020: blue_salome_attack__10
+    21300022: blue_salome_attack__11
+    21300024: blue_salome_attack__12
+    21300026: blue_salome_attack__13
+    21300028: blue_salome_attack__14
+    21300030: blue_salome_attack__15
+    21300032: blue_salome_attack__16
+    21300034: blue_salome_attack__17
+    21300036: blue_salome_attack__18
+    21300038: blue_salome_attack__19
+    21300040: blue_salome_attack__20
+    21300042: blue_salome_attack__21
+    21300044: blue_salome_attack__22
+    21300046: blue_salome_attack__23
+    21300048: blue_salome_attack__24
+    21300050: blue_salome_attack__25
+    21300052: blue_salome_attack__26
+    21300054: Blue_Gecko_Attack_Spritesheet_0
+    21300056: Blue_Gecko_Attack_Spritesheet_1
+    21300058: Blue_Gecko_Attack_Spritesheet_2
+    21300060: Blue_Gecko_Attack_Spritesheet_3
+    21300062: Blue_Gecko_Attack_Spritesheet_4
+    21300064: Blue_Gecko_Attack_Spritesheet_5
+    21300066: Blue_Gecko_Attack_Spritesheet_6
+    21300068: Blue_Gecko_Attack_Spritesheet_7
+    21300070: Blue_Gecko_Attack_Spritesheet_8
+    21300072: Blue_Gecko_Attack_Spritesheet_9
+    21300074: Blue_Gecko_Attack_Spritesheet_10
+    21300076: Blue_Gecko_Attack_Spritesheet_11
+    21300078: Blue_Gecko_Attack_Spritesheet_12
+    21300080: Blue_Gecko_Attack_Spritesheet_13
+    21300082: Blue_Gecko_Attack_Spritesheet_14
+    21300084: Blue_Gecko_Attack_Spritesheet_15
+    21300086: Blue_Gecko_Attack_Spritesheet_16
+    21300088: Blue_Gecko_Attack_Spritesheet_17
+    21300090: Blue_Gecko_Attack_Spritesheet_18
+    21300092: Blue_Gecko_Attack_Spritesheet_19
+    21300094: Blue_Gecko_Attack_Spritesheet_20
+    21300096: Blue_Gecko_Attack_Spritesheet_21
+    21300098: Blue_Gecko_Attack_Spritesheet_22
+    21300100: Blue_Gecko_Attack_Spritesheet_23
+    21300102: Blue_Gecko_Attack_Spritesheet_24
+    21300104: Blue_Gecko_Attack_Spritesheet_25
+    21300106: Blue_Gecko_Attack_Spritesheet_26
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1225
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1225
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1225
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1050
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1050
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 875
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 875
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 875
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 700
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 700
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 525
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 525
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 350
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 350
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 175
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Attack_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

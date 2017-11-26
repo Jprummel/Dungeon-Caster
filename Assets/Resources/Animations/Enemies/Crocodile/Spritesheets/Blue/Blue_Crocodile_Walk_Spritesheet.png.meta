@@ -1,0 +1,666 @@
+fileFormatVersion: 2
+guid: 246b4b6025df44b45b7feece510fe085
+timeCreated: 1509108359
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LizzardRunblue_Spritesheet_0
+    21300002: LizzardRunblue_Spritesheet_1
+    21300004: LizzardRunblue_Spritesheet_2
+    21300006: LizzardRunblue_Spritesheet_3
+    21300008: LizzardRunblue_Spritesheet_4
+    21300010: LizzardRunblue_Spritesheet_5
+    21300012: LizzardRunblue_Spritesheet_6
+    21300014: LizzardRunblue_Spritesheet_7
+    21300016: LizzardRunblue_Spritesheet_8
+    21300018: LizzardRunblue_Spritesheet_9
+    21300020: LizzardRunblue_Spritesheet_10
+    21300022: LizzardRunblue_Spritesheet_11
+    21300024: LizzardRunblue_Spritesheet_12
+    21300026: LizzardRunblue_Spritesheet_13
+    21300028: LizzardRunblue_Spritesheet_14
+    21300030: LizzardRunblue_Spritesheet_15
+    21300032: LizzardRunblue_Spritesheet_16
+    21300034: LizzardRunblue_Spritesheet_17
+    21300036: LizzardRunblue_Spritesheet_18
+    21300038: LizzardRunblue_Spritesheet_19
+    21300040: LizzardRunblue_Spritesheet_20
+    21300042: LizzardRunblue_Spritesheet_21
+    21300044: LizzardRunblue_Spritesheet_22
+    21300046: LizzardRunblue_Spritesheet_23
+    21300048: LizzardRunblue_Spritesheet_24
+    21300050: LizzardRunblue_Spritesheet_25
+    21300052: LizzardRunblue_Spritesheet_26
+    21300054: LizzardRunblue_Spritesheet_27
+    21300056: LizzardRunblue_Spritesheet_28
+    21300058: LizzardRunblue_Spritesheet_29
+    21300060: LizzardRunblue_Spritesheet_30
+    21300062: LizzardRunblue_Spritesheet_31
+    21300064: LizzardRunblue_Spritesheet_32
+    21300066: Blue_Crocodile_Walk_Spritesheet_0
+    21300068: Blue_Crocodile_Walk_Spritesheet_1
+    21300070: Blue_Crocodile_Walk_Spritesheet_2
+    21300072: Blue_Crocodile_Walk_Spritesheet_3
+    21300074: Blue_Crocodile_Walk_Spritesheet_4
+    21300076: Blue_Crocodile_Walk_Spritesheet_5
+    21300078: Blue_Crocodile_Walk_Spritesheet_6
+    21300080: Blue_Crocodile_Walk_Spritesheet_7
+    21300082: Blue_Crocodile_Walk_Spritesheet_8
+    21300084: Blue_Crocodile_Walk_Spritesheet_9
+    21300086: Blue_Crocodile_Walk_Spritesheet_10
+    21300088: Blue_Crocodile_Walk_Spritesheet_11
+    21300090: Blue_Crocodile_Walk_Spritesheet_12
+    21300092: Blue_Crocodile_Walk_Spritesheet_13
+    21300094: Blue_Crocodile_Walk_Spritesheet_14
+    21300096: Blue_Crocodile_Walk_Spritesheet_15
+    21300098: Blue_Crocodile_Walk_Spritesheet_16
+    21300100: Blue_Crocodile_Walk_Spritesheet_17
+    21300102: Blue_Crocodile_Walk_Spritesheet_18
+    21300104: Blue_Crocodile_Walk_Spritesheet_19
+    21300106: Blue_Crocodile_Walk_Spritesheet_20
+    21300108: Blue_Crocodile_Walk_Spritesheet_21
+    21300110: Blue_Crocodile_Walk_Spritesheet_22
+    21300112: Blue_Crocodile_Walk_Spritesheet_23
+    21300114: Blue_Crocodile_Walk_Spritesheet_24
+    21300116: Blue_Crocodile_Walk_Spritesheet_25
+    21300118: Blue_Crocodile_Walk_Spritesheet_26
+    21300120: Blue_Crocodile_Walk_Spritesheet_27
+    21300122: Blue_Crocodile_Walk_Spritesheet_28
+    21300124: Blue_Crocodile_Walk_Spritesheet_29
+    21300126: Blue_Crocodile_Walk_Spritesheet_30
+    21300128: Blue_Crocodile_Walk_Spritesheet_31
+    21300130: Blue_Crocodile_Walk_Spritesheet_32
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3000
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 3000
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3000
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2700
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2700
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2700
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2400
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2400
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2100
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2100
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1800
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1800
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1500
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1500
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1200
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1200
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 900
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 900
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 600
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 600
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 300
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 300
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Crocodile_Walk_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 0
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

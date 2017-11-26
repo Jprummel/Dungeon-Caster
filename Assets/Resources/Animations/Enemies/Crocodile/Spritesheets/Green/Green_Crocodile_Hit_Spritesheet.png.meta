@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: eb9d69dbb548441108d530c16622ed14
+timeCreated: 1509106425
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: green_crocodile_hit_0
+    21300002: green_crocodile_hit_1
+    21300004: green_crocodile_hit_2
+    21300006: green_crocodile_hit_3
+    21300008: green_crocodile_hit_4
+    21300010: green_crocodile_hit_5
+    21300012: green_crocodile_hit_6
+    21300014: green_crocodile_hit_7
+    21300016: green_crocodile_hit_8
+    21300018: green_crocodile_hit_9
+    21300020: green_crocodile_hit_10
+    21300022: green_crocodile_hit_11
+    21300024: green_crocodile_hit_12
+    21300026: green_crocodile_hit_13
+    21300028: green_crocodile_hit_14
+    21300030: green_crocodile_hit_15
+    21300032: green_crocodile_hit_16
+    21300034: green_crocodile_hit_17
+    21300036: green_crocodile_hit_18
+    21300038: green_crocodile_hit_19
+    21300040: green_crocodile_hit_20
+    21300042: green_crocodile_hit_21
+    21300044: green_crocodile_hit_22
+    21300046: green_crocodile_hit_23
+    21300048: green_crocodile_hit_24
+    21300050: green_crocodile_hit_25
+    21300052: green_crocodile_hit_26
+    21300054: Green_Crocodile_Hit_Spritesheet_0
+    21300056: Green_Crocodile_Hit_Spritesheet_1
+    21300058: Green_Crocodile_Hit_Spritesheet_2
+    21300060: Green_Crocodile_Hit_Spritesheet_3
+    21300062: Green_Crocodile_Hit_Spritesheet_4
+    21300064: Green_Crocodile_Hit_Spritesheet_5
+    21300066: Green_Crocodile_Hit_Spritesheet_6
+    21300068: Green_Crocodile_Hit_Spritesheet_7
+    21300070: Green_Crocodile_Hit_Spritesheet_8
+    21300072: Green_Crocodile_Hit_Spritesheet_9
+    21300074: Green_Crocodile_Hit_Spritesheet_10
+    21300076: Green_Crocodile_Hit_Spritesheet_11
+    21300078: Green_Crocodile_Hit_Spritesheet_12
+    21300080: Green_Crocodile_Hit_Spritesheet_13
+    21300082: Green_Crocodile_Hit_Spritesheet_14
+    21300084: Green_Crocodile_Hit_Spritesheet_15
+    21300086: Green_Crocodile_Hit_Spritesheet_16
+    21300088: Green_Crocodile_Hit_Spritesheet_17
+    21300090: Green_Crocodile_Hit_Spritesheet_18
+    21300092: Green_Crocodile_Hit_Spritesheet_19
+    21300094: Green_Crocodile_Hit_Spritesheet_20
+    21300096: Green_Crocodile_Hit_Spritesheet_21
+    21300098: Green_Crocodile_Hit_Spritesheet_22
+    21300100: Green_Crocodile_Hit_Spritesheet_23
+    21300102: Green_Crocodile_Hit_Spritesheet_24
+    21300104: Green_Crocodile_Hit_Spritesheet_25
+    21300106: Green_Crocodile_Hit_Spritesheet_26
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2100
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2100
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1800
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1800
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1500
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1500
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1200
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1200
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 900
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 900
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 600
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 600
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 300
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 300
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Crocodile_Hit_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 470
+        height: 300
+      alignment: 9
+      pivot: {x: 0.7, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

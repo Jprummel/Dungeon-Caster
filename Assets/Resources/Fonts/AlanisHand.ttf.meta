@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4d8cf6bbf98d49a4388f53c1cf34f97b
+timeCreated: 1507713864
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alanis Hand
+  fontNames:
+  - Alanis Hand
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

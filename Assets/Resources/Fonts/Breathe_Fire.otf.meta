@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 00397ad92f3f0ea48ac09cf5307833ce
+timeCreated: 1507814681
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Breathe Fire
+  fontNames:
+  - Breathe Fire
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

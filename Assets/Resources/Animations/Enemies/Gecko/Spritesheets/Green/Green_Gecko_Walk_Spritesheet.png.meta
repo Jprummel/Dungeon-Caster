@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: 9cd4826f98cba4677b8ad9d80c1a7e90
+timeCreated: 1508956790
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: salome_withcolours_sprite_0
+    21300002: salome_withcolours_sprite_1
+    21300004: salome_withcolours_sprite_2
+    21300006: salome_withcolours_sprite_3
+    21300008: salome_withcolours_sprite_4
+    21300010: salome_withcolours_sprite_5
+    21300012: salome_withcolours_sprite_6
+    21300014: salome_withcolours_sprite_7
+    21300016: salome_withcolours_sprite_8
+    21300018: salome_withcolours_sprite_9
+    21300020: salome_withcolours_sprite_10
+    21300022: salome_withcolours_sprite_11
+    21300024: salome_withcolours_sprite_12
+    21300026: salome_withcolours_sprite_13
+    21300028: salome_withcolours_sprite_14
+    21300030: salome_withcolours_sprite_15
+    21300032: salome_withcolours_sprite_16
+    21300034: salome_withcolours_sprite_17
+    21300036: salome_withcolours_sprite_18
+    21300038: salome_withcolours_sprite_19
+    21300040: salome_withcolours_sprite_20
+    21300042: salome_withcolours_sprite_21
+    21300044: salome_withcolours_sprite_22
+    21300046: salome_withcolours_sprite_23
+    21300048: salome_withcolours_sprite_24
+    21300050: salome_withcolours_sprite_25
+    21300052: salome_withcolours_sprite_26
+    21300054: salome_withcolours_sprite_27
+    21300056: salome_withcolours_sprite_28
+    21300058: salome_withcolours_sprite_29
+    21300060: salome_withcolours_sprite_30
+    21300062: salome_withcolours_sprite_31
+    21300064: salome_withcolours_sprite_32
+    21300066: salome_withcolours_sprite_33
+    21300068: salome_withcolours_sprite_34
+    21300070: salome_withcolours_sprite_35
+    21300072: salome_withcolours_sprite_36
+    21300074: salome_withcolours_sprite_37
+    21300076: salome_withcolours_sprite_38
+    21300078: salome_withcolours_sprite_39
+    21300080: salome_withcolours_sprite_40
+    21300082: salome_withcolours_sprite_41
+    21300084: salome_withcolours_sprite_42
+    21300086: salome_withcolours_sprite_43
+    21300088: salome_withcolours_sprite_44
+    21300090: Salome_Walk_Spritesheet_0
+    21300092: Salome_Walk_Spritesheet_1
+    21300094: Salome_Walk_Spritesheet_2
+    21300096: Salome_Walk_Spritesheet_3
+    21300098: Salome_Walk_Spritesheet_4
+    21300100: Salome_Walk_Spritesheet_5
+    21300102: Salome_Walk_Spritesheet_6
+    21300104: Salome_Walk_Spritesheet_7
+    21300106: Salome_Walk_Spritesheet_8
+    21300108: Salome_Walk_Spritesheet_9
+    21300110: Salome_Walk_Spritesheet_10
+    21300112: Salome_Walk_Spritesheet_11
+    21300114: Salome_Walk_Spritesheet_12
+    21300116: Salome_Walk_Spritesheet_13
+    21300118: Salome_Walk_Spritesheet_14
+    21300120: Salome_Walk_Spritesheet_15
+    21300122: Salome_Walk_Spritesheet_16
+    21300124: Salome_Walk_Spritesheet_17
+    21300126: Salome_Walk_Spritesheet_18
+    21300128: Salome_Walk_Spritesheet_19
+    21300130: Salome_Walk_Spritesheet_20
+    21300132: Salome_Walk_Spritesheet_21
+    21300134: Salome_Walk_Spritesheet_22
+    21300136: Salome_Walk_Spritesheet_23
+    21300138: Salome_Walk_Spritesheet_24
+    21300140: Salome_Walk_Spritesheet_25
+    21300142: Salome_Walk_Spritesheet_26
+    21300144: Salome_Walk_Spritesheet_27
+    21300146: Salome_Walk_Spritesheet_28
+    21300148: Salome_Walk_Spritesheet_29
+    21300150: Salome_Walk_Spritesheet_30
+    21300152: Salome_Walk_Spritesheet_31
+    21300154: Salome_Walk_Spritesheet_32
+    21300156: Salome_Walk_Spritesheet_33
+    21300158: Salome_Walk_Spritesheet_34
+    21300160: Salome_Walk_Spritesheet_35
+    21300162: Salome_Walk_Spritesheet_36
+    21300164: Salome_Walk_Spritesheet_37
+    21300166: Salome_Walk_Spritesheet_38
+    21300168: Salome_Walk_Spritesheet_39
+    21300170: Salome_Walk_Spritesheet_40
+    21300172: Salome_Walk_Spritesheet_41
+    21300174: Salome_Walk_Spritesheet_42
+    21300176: Salome_Walk_Spritesheet_43
+    21300178: Salome_Walk_Spritesheet_44
+    21300180: Green_Gecko_Walk_Spritesheet_0
+    21300182: Green_Gecko_Walk_Spritesheet_1
+    21300184: Green_Gecko_Walk_Spritesheet_2
+    21300186: Green_Gecko_Walk_Spritesheet_3
+    21300188: Green_Gecko_Walk_Spritesheet_4
+    21300190: Green_Gecko_Walk_Spritesheet_5
+    21300192: Green_Gecko_Walk_Spritesheet_6
+    21300194: Green_Gecko_Walk_Spritesheet_7
+    21300196: Green_Gecko_Walk_Spritesheet_8
+    21300198: Green_Gecko_Walk_Spritesheet_9
+    21300200: Green_Gecko_Walk_Spritesheet_10
+    21300202: Green_Gecko_Walk_Spritesheet_11
+    21300204: Green_Gecko_Walk_Spritesheet_12
+    21300206: Green_Gecko_Walk_Spritesheet_13
+    21300208: Green_Gecko_Walk_Spritesheet_14
+    21300210: Green_Gecko_Walk_Spritesheet_15
+    21300212: Green_Gecko_Walk_Spritesheet_16
+    21300214: Green_Gecko_Walk_Spritesheet_17
+    21300216: Green_Gecko_Walk_Spritesheet_18
+    21300218: Green_Gecko_Walk_Spritesheet_19
+    21300220: Green_Gecko_Walk_Spritesheet_20
+    21300222: Green_Gecko_Walk_Spritesheet_21
+    21300224: Green_Gecko_Walk_Spritesheet_22
+    21300226: Green_Gecko_Walk_Spritesheet_23
+    21300228: Green_Gecko_Walk_Spritesheet_24
+    21300230: Green_Gecko_Walk_Spritesheet_25
+    21300232: Green_Gecko_Walk_Spritesheet_26
+    21300234: Green_Gecko_Walk_Spritesheet_27
+    21300236: Green_Gecko_Walk_Spritesheet_28
+    21300238: Green_Gecko_Walk_Spritesheet_29
+    21300240: Green_Gecko_Walk_Spritesheet_30
+    21300242: Green_Gecko_Walk_Spritesheet_31
+    21300244: Green_Gecko_Walk_Spritesheet_32
+    21300246: Green_Gecko_Walk_Spritesheet_33
+    21300248: Green_Gecko_Walk_Spritesheet_34
+    21300250: Green_Gecko_Walk_Spritesheet_35
+    21300252: Green_Gecko_Walk_Spritesheet_36
+    21300254: Green_Gecko_Walk_Spritesheet_37
+    21300256: Green_Gecko_Walk_Spritesheet_38
+    21300258: Green_Gecko_Walk_Spritesheet_39
+    21300260: Green_Gecko_Walk_Spritesheet_40
+    21300262: Green_Gecko_Walk_Spritesheet_41
+    21300264: Green_Gecko_Walk_Spritesheet_42
+    21300266: Green_Gecko_Walk_Spritesheet_43
+    21300268: Green_Gecko_Walk_Spritesheet_44
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2450
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2450
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2450
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2275
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2275
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2275
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2100
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2100
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1925
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1925
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1925
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1750
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1750
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1750
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1575
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1575
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1575
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1225
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1225
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1225
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1050
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1050
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 875
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 875
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 875
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 700
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 700
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 525
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 525
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 350
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 350
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 175
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Green_Gecko_Walk_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

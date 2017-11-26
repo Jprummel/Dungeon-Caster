@@ -1,0 +1,586 @@
+fileFormatVersion: 2
+guid: 989e219f00df55f4a8f2f1c25511614c
+timeCreated: 1508851718
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BirdAttack_Spritesheet_0
+    21300002: BirdAttack_Spritesheet_1
+    21300004: BirdAttack_Spritesheet_2
+    21300006: BirdAttack_Spritesheet_3
+    21300008: BirdAttack_Spritesheet_4
+    21300010: BirdAttack_Spritesheet_5
+    21300012: BirdAttack_Spritesheet_6
+    21300014: BirdAttack_Spritesheet_7
+    21300016: BirdAttack_Spritesheet_8
+    21300018: BirdAttack_Spritesheet_9
+    21300020: BirdAttack_Spritesheet_10
+    21300022: BirdAttack_Spritesheet_11
+    21300024: BirdAttack_Spritesheet_12
+    21300026: BirdAttack_Spritesheet_13
+    21300028: BirdAttack_Spritesheet_14
+    21300030: BirdAttack_Spritesheet_15
+    21300032: BirdAttack_Spritesheet_16
+    21300034: BirdAttack_Spritesheet_17
+    21300036: BirdAttack_Spritesheet_18
+    21300038: BirdAttack_Spritesheet_19
+    21300040: BirdAttack_Spritesheet_20
+    21300042: BirdAttack_Spritesheet_21
+    21300044: BirdAttack_Spritesheet_22
+    21300046: BirdAttack_Spritesheet_23
+    21300048: BirdAttack_Spritesheet_24
+    21300050: BirdAttack_Spritesheet_25
+    21300052: BirdAttack_Spritesheet_26
+    21300054: BirdAttack_Spritesheet_27
+    21300056: BirdAttack_Spritesheet_28
+    21300058: BirdAttack_Spritesheet_29
+    21300060: Bird_Attack_Spritesheet_0
+    21300062: Bird_Attack_Spritesheet_1
+    21300064: Bird_Attack_Spritesheet_2
+    21300066: Bird_Attack_Spritesheet_3
+    21300068: Bird_Attack_Spritesheet_4
+    21300070: Bird_Attack_Spritesheet_5
+    21300072: Bird_Attack_Spritesheet_6
+    21300074: Bird_Attack_Spritesheet_7
+    21300076: Bird_Attack_Spritesheet_8
+    21300078: Bird_Attack_Spritesheet_9
+    21300080: Bird_Attack_Spritesheet_10
+    21300082: Bird_Attack_Spritesheet_11
+    21300084: Bird_Attack_Spritesheet_12
+    21300086: Bird_Attack_Spritesheet_13
+    21300088: Bird_Attack_Spritesheet_14
+    21300090: Bird_Attack_Spritesheet_15
+    21300092: Bird_Attack_Spritesheet_16
+    21300094: Bird_Attack_Spritesheet_17
+    21300096: Bird_Attack_Spritesheet_18
+    21300098: Bird_Attack_Spritesheet_19
+    21300100: Bird_Attack_Spritesheet_20
+    21300102: Bird_Attack_Spritesheet_21
+    21300104: Bird_Attack_Spritesheet_22
+    21300106: Bird_Attack_Spritesheet_23
+    21300108: Bird_Attack_Spritesheet_24
+    21300110: Bird_Attack_Spritesheet_25
+    21300112: Bird_Attack_Spritesheet_26
+    21300114: Bird_Attack_Spritesheet_27
+    21300116: Bird_Attack_Spritesheet_28
+    21300118: Bird_Attack_Spritesheet_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1737
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1737
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1737
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1544
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1544
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1544
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1351
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1351
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1351
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1158
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1158
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1158
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 965
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 965
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 965
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 772
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 772
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 772
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 579
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 579
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 579
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 386
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 386
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 386
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 193
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 193
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird_Attack_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 213
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

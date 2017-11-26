@@ -1,0 +1,802 @@
+fileFormatVersion: 2
+guid: 56b3fb4a183a34108891408b4201b840
+timeCreated: 1508956617
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blue_salome_walk_0
+    21300002: blue_salome_walk_1
+    21300004: blue_salome_walk_2
+    21300006: blue_salome_walk_3
+    21300008: blue_salome_walk_4
+    21300010: blue_salome_walk_5
+    21300012: blue_salome_walk_6
+    21300014: blue_salome_walk_7
+    21300016: blue_salome_walk_8
+    21300018: blue_salome_walk_9
+    21300020: blue_salome_walk_10
+    21300022: blue_salome_walk_11
+    21300024: blue_salome_walk_12
+    21300026: blue_salome_walk_13
+    21300028: blue_salome_walk_14
+    21300030: blue_salome_walk_15
+    21300032: blue_salome_walk_16
+    21300034: blue_salome_walk_17
+    21300036: blue_salome_walk_18
+    21300038: blue_salome_walk_19
+    21300040: blue_salome_walk_20
+    21300042: blue_salome_walk_21
+    21300044: blue_salome_walk_22
+    21300046: blue_salome_walk_23
+    21300048: blue_salome_walk_24
+    21300050: blue_salome_walk_25
+    21300052: blue_salome_walk_26
+    21300054: blue_salome_walk_27
+    21300056: blue_salome_walk_28
+    21300058: blue_salome_walk_29
+    21300060: blue_salome_walk_30
+    21300062: blue_salome_walk_31
+    21300064: blue_salome_walk_32
+    21300066: blue_salome_walk_33
+    21300068: blue_salome_walk_34
+    21300070: blue_salome_walk_35
+    21300072: blue_salome_walk_36
+    21300074: blue_salome_walk_37
+    21300076: blue_salome_walk_38
+    21300078: blue_salome_walk_39
+    21300080: blue_salome_walk_40
+    21300082: blue_salome_walk_41
+    21300084: blue_salome_walk_42
+    21300086: blue_salome_walk_43
+    21300088: blue_salome_walk_44
+    21300090: Blue_Gecko_Walk_Spritesheet_0
+    21300092: Blue_Gecko_Walk_Spritesheet_1
+    21300094: Blue_Gecko_Walk_Spritesheet_2
+    21300096: Blue_Gecko_Walk_Spritesheet_3
+    21300098: Blue_Gecko_Walk_Spritesheet_4
+    21300100: Blue_Gecko_Walk_Spritesheet_5
+    21300102: Blue_Gecko_Walk_Spritesheet_6
+    21300104: Blue_Gecko_Walk_Spritesheet_7
+    21300106: Blue_Gecko_Walk_Spritesheet_8
+    21300108: Blue_Gecko_Walk_Spritesheet_9
+    21300110: Blue_Gecko_Walk_Spritesheet_10
+    21300112: Blue_Gecko_Walk_Spritesheet_11
+    21300114: Blue_Gecko_Walk_Spritesheet_12
+    21300116: Blue_Gecko_Walk_Spritesheet_13
+    21300118: Blue_Gecko_Walk_Spritesheet_14
+    21300120: Blue_Gecko_Walk_Spritesheet_15
+    21300122: Blue_Gecko_Walk_Spritesheet_16
+    21300124: Blue_Gecko_Walk_Spritesheet_17
+    21300126: Blue_Gecko_Walk_Spritesheet_18
+    21300128: Blue_Gecko_Walk_Spritesheet_19
+    21300130: Blue_Gecko_Walk_Spritesheet_20
+    21300132: Blue_Gecko_Walk_Spritesheet_21
+    21300134: Blue_Gecko_Walk_Spritesheet_22
+    21300136: Blue_Gecko_Walk_Spritesheet_23
+    21300138: Blue_Gecko_Walk_Spritesheet_24
+    21300140: Blue_Gecko_Walk_Spritesheet_25
+    21300142: Blue_Gecko_Walk_Spritesheet_26
+    21300144: Blue_Gecko_Walk_Spritesheet_27
+    21300146: Blue_Gecko_Walk_Spritesheet_28
+    21300148: Blue_Gecko_Walk_Spritesheet_29
+    21300150: Blue_Gecko_Walk_Spritesheet_30
+    21300152: Blue_Gecko_Walk_Spritesheet_31
+    21300154: Blue_Gecko_Walk_Spritesheet_32
+    21300156: Blue_Gecko_Walk_Spritesheet_33
+    21300158: Blue_Gecko_Walk_Spritesheet_34
+    21300160: Blue_Gecko_Walk_Spritesheet_35
+    21300162: Blue_Gecko_Walk_Spritesheet_36
+    21300164: Blue_Gecko_Walk_Spritesheet_37
+    21300166: Blue_Gecko_Walk_Spritesheet_38
+    21300168: Blue_Gecko_Walk_Spritesheet_39
+    21300170: Blue_Gecko_Walk_Spritesheet_40
+    21300172: Blue_Gecko_Walk_Spritesheet_41
+    21300174: Blue_Gecko_Walk_Spritesheet_42
+    21300176: Blue_Gecko_Walk_Spritesheet_43
+    21300178: Blue_Gecko_Walk_Spritesheet_44
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2450
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2450
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2450
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2275
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2275
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2275
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2100
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2100
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2100
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1925
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1925
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1925
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1750
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1750
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1750
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1575
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1575
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1575
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1400
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1225
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1225
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1225
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1050
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1050
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 875
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 875
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 875
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 700
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 700
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 700
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 525
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 525
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 525
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 350
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 350
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 350
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 175
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 175
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue_Gecko_Walk_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 175
+        height: 175
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,522 @@
+fileFormatVersion: 2
+guid: 94d910774bb524ab098000004e69779f
+timeCreated: 1508832488
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fox_hit_animation_0
+    21300002: fox_hit_animation_1
+    21300004: fox_hit_animation_2
+    21300006: fox_hit_animation_3
+    21300008: fox_hit_animation_4
+    21300010: fox_hit_animation_5
+    21300012: fox_hit_animation_6
+    21300014: fox_hit_animation_7
+    21300016: fox_hit_animation_8
+    21300018: fox_hit_animation_9
+    21300020: fox_hit_animation_10
+    21300022: fox_hit_animation_11
+    21300024: fox_hit_animation_12
+    21300026: fox_hit_animation_13
+    21300028: fox_hit_animation_14
+    21300030: fox_hit_animation_15
+    21300032: fox_hit_animation_16
+    21300034: fox_hit_animation_17
+    21300036: fox_hit_animation_18
+    21300038: fox_hit_animation_19
+    21300040: fox_hit_animation_20
+    21300042: fox_hit_animation_21
+    21300044: fox_hit_animation_22
+    21300046: fox_hit_animation_23
+    21300048: fox_hit_animation_24
+    21300050: fox_hit_animation_25
+    21300052: Fox_Hit_Spritesheet_0
+    21300054: Fox_Hit_Spritesheet_1
+    21300056: Fox_Hit_Spritesheet_2
+    21300058: Fox_Hit_Spritesheet_3
+    21300060: Fox_Hit_Spritesheet_4
+    21300062: Fox_Hit_Spritesheet_5
+    21300064: Fox_Hit_Spritesheet_6
+    21300066: Fox_Hit_Spritesheet_7
+    21300068: Fox_Hit_Spritesheet_8
+    21300070: Fox_Hit_Spritesheet_9
+    21300072: Fox_Hit_Spritesheet_10
+    21300074: Fox_Hit_Spritesheet_11
+    21300076: Fox_Hit_Spritesheet_12
+    21300078: Fox_Hit_Spritesheet_13
+    21300080: Fox_Hit_Spritesheet_14
+    21300082: Fox_Hit_Spritesheet_15
+    21300084: Fox_Hit_Spritesheet_16
+    21300086: Fox_Hit_Spritesheet_17
+    21300088: Fox_Hit_Spritesheet_18
+    21300090: Fox_Hit_Spritesheet_19
+    21300092: Fox_Hit_Spritesheet_20
+    21300094: Fox_Hit_Spritesheet_21
+    21300096: Fox_Hit_Spritesheet_22
+    21300098: Fox_Hit_Spritesheet_23
+    21300100: Fox_Hit_Spritesheet_24
+    21300102: Fox_Hit_Spritesheet_25
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1600
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1600
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1400
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1400
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1200
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1200
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1000
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1000
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 800
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 800
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 600
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 600
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 400
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 400
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 200
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 200
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fox_Hit_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

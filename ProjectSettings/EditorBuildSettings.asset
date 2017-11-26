@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Main_Menu.unity
+    guid: 7306dd219f04f734b991f89e56ff61ab
+  - enabled: 1
+    path: Assets/_Scenes/Dungeon_Select.unity
+    guid: 5bdb1e16e4cc8ce4ab41be27e9ad02f6
+  - enabled: 1
+    path: Assets/_Scenes/Levels/Level_UI_Tutorial.unity
+    guid: 6aec05e4d4912ef48b2dea6dd0eca477
+  - enabled: 1
+    path: Assets/_Scenes/Levels/Level_Tutorial.unity
+    guid: 4e872c7c6752ff84eaaf8bddbc1d9be5
+  - enabled: 1
+    path: Assets/_Scenes/Levels/Level_Practice_Room.unity
+    guid: b29ede59fca14844cabbf304be0a013b
+  - enabled: 1
+    path: Assets/_Scenes/Levels/Level_Cave.unity
+    guid: a2b75fdf92ff7374390fbc9a48366e23
+  - enabled: 1
+    path: Assets/_Scenes/Levels/Level_Ruins.unity
+    guid: 06fb07c38b55c504cae87539debb11d7
+  - enabled: 1
+    path: Assets/_Scenes/Levels/Level_Outside_Ruins.unity
+    guid: a601f4f255f776c45bee414eb0c9eefe
+  - enabled: 1
+    path: Assets/_Scenes/Levels/Level_Lava.unity
+    guid: 2b1c8c63d608dc848808025fe711e6d8
+  - enabled: 1
+    path: Assets/_Scenes/Levels/Level_Jungle_Temple.unity
+    guid: a080402df7f9e5b4da8bfb2f26d249a8
